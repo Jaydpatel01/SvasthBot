@@ -1,0 +1,40 @@
+# SvasthBot Dependencies
+
+# FastAPI Backend
+fastapi>=0.104.0
+uvicorn>=0.22.0
+pydantic>=2.4.2
+python-jose>=3.3.0
+python-multipart>=0.0.6
+bcrypt>=4.0.1
+cryptography>=41.0.4
+httpx>=0.24.1
+
+# Streamlit Frontend
+streamlit>=1.26.0
+streamlit-chat>=0.1.1
+markdown>=3.5
+pytz>=2023.3
+
+# API and HTTP
+requests>=2.31.0
+
+# NLP and AI Models
+torch>=2.0.1
+transformers>=4.34.1
+beautifulsoup4>=4.12.2
+
+# Audio Processing
+SpeechRecognition>=3.10.0
+gTTS>=2.3.2
+pyaudio>=0.2.13
+
+# Utilities
+python-dotenv>=1.0.0
+numpy>=1.24.3
+pandas>=2.1.1
+googletrans>=3.1.0a0
+Pillow>=10.0.0
+
+# Testing
+pytest>=7.4.2
